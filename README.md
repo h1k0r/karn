@@ -1,7 +1,7 @@
 Advanced Subdomain Discovery Tool
 Overview:-
 
-        The Advanced Subdomain Discovery Tool is a robust and versatile utility designed to uncover subdomains of a target domain using multiple discovery techniques. Whether you're a penetration tester, security researcher, or system administrator, this tool provides the functionalities you need to perform thorough subdomain enumeration and threat analysis.
+        The karn Tool is a robust and versatile utility designed to uncover subdomains of a target domain using multiple discovery techniques. Whether you're a penetration tester, security researcher, or system administrator, this tool provides the functionalities you need to perform thorough subdomain enumeration and threat analysis.
 
 Features:-
 
